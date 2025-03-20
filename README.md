@@ -63,7 +63,7 @@ Discount Impact 📉: Analyzed the effect of discounts on revenue.
 This project delivers a comprehensive and interactive analysis of sales and revenue data, providing actionable insights for strategic business decisions.
 
 🔗 Feel free to connect and explore more!
-🌐 LinkedIn: [Your LinkedIn Profile URL]
-🌐 GitHub: [Your GitHub Profile URL]
+🌐 LinkedIn: https://www.linkedin.com/in/simcy-v-549869210/ 
+🌐 GitHub: https://github.com/SimcyV
 
----
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
